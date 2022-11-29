@@ -1,0 +1,11 @@
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\bin\Debug\net5.0\InspectorLib.deps.json
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\bin\Debug\net5.0\InspectorLib.dll
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\bin\Debug\net5.0\ref\InspectorLib.dll
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\bin\Debug\net5.0\InspectorLib.pdb
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\obj\Debug\net5.0\InspectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\obj\Debug\net5.0\InspectorLib.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\obj\Debug\net5.0\InspectorLib.AssemblyInfo.cs
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\obj\Debug\net5.0\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\obj\Debug\net5.0\InspectorLib.dll
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\obj\Debug\net5.0\ref\InspectorLib.dll
+C:\Users\ASUS TUF GAMING\source\repos\belomestnovInspectorLib\InspectorLib\obj\Debug\net5.0\InspectorLib.pdb

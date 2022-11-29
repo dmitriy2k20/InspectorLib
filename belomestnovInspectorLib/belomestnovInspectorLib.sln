@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belomestnovInspectorLib", "belomestnovInspectorLib\belomestnovInspectorLib.csproj", "{9E8C8B89-7DF5-473A-B502-32291C790988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspectorLib", "InspectorLib\InspectorLib.csproj", "{28BCC0FB-4C72-4232-A353-8C15DCF99C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E8C8B89-7DF5-473A-B502-32291C790988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8C8B89-7DF5-473A-B502-32291C790988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8C8B89-7DF5-473A-B502-32291C790988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8C8B89-7DF5-473A-B502-32291C790988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BCC0FB-4C72-4232-A353-8C15DCF99C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BCC0FB-4C72-4232-A353-8C15DCF99C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BCC0FB-4C72-4232-A353-8C15DCF99C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BCC0FB-4C72-4232-A353-8C15DCF99C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1285EC69-156C-4F87-8A06-DF4BD9C6735B}
+	EndGlobalSection
+EndGlobal
